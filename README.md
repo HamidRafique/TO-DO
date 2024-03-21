@@ -1,1 +1,1 @@
-LATER
+A to-do list is created using HTML for structure, CSS for styling, and JavaScript for functionality. The HTML contains input fields for tasks and buttons to add them to the list. CSS styles elements for a visually appealing layout. JavaScript adds features like adding tasks, marking them as completed, and deleting tasks. 
